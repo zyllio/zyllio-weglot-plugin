@@ -6,7 +6,7 @@
 
   script.onload = function() {
     Weglot.initialize({
-      api_key: "TA_CLE_API_ICI"
+      api_key: "wg_b8882c415ba6b2f667cf3bd8488a59411"
     });
   };
 
