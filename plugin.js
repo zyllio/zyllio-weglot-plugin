@@ -6,7 +6,7 @@
 
   script.onload = function() {
     Weglot.initialize({
-      api_key: "wg_b8882c415ba6b2f667cf3bd8488a59411"
+      api_key: "wg_3b7195a82cf565434937d2153e01d5521"
     });
   };
 
